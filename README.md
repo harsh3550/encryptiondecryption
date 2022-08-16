@@ -1,2 +1,2 @@
 # encryptiondecryption
-System which Encrypts and Decrypts text using PYthon
+Simple project that encrpyts text entered gives a key and decrypts.
